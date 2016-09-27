@@ -29,4 +29,7 @@ public class BuddyInfo {
 		System.out.println(friend.getName());
 	}
 
+	public void newmethod(){
+		return;
+	}
 }
