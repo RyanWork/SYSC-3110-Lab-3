@@ -1,5 +1,5 @@
 package bin;
-
+//I Edited this online
 public class BuddyInfo {
 	private String name, address;
 	private int size;
