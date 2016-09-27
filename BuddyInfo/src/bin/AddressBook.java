@@ -24,5 +24,6 @@ public class AddressBook {
 		AddressBook addressbook = new AddressBook();
 		addressbook.addBuddy(buddy);
 		addressbook.removeBuddy(buddy);
+		System.out.println("TEST UPDATE!!");
 	}
 }
